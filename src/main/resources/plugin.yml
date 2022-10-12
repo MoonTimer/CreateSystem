@@ -1,0 +1,11 @@
+name: Crates
+version: '${project.version}'
+main: me.moontimer.cratesystem.Crates
+api-version: 1.19
+authors: [ MoonTimer ]
+description: Create Plugin
+commands:
+  cratesadmin:
+    aliases:
+      - ca
+  crates:
